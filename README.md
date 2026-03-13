@@ -28,3 +28,4 @@ This task highlights several important concepts in modern web development, inclu
 In conclusion, the real-time chat application successfully demonstrates how WebSocket technology can be used to build responsive and interactive communication systems. The use of Node.js and Socket.IO makes it possible to handle multiple users efficiently while ensuring that messages are delivered instantly. This project provides a strong foundation for developing more advanced real-time applications such as collaborative tools, live notifications, and online messaging platforms.
 
 #OUTPUT:
+<img width="1919" height="883" alt="Image" src="https://github.com/user-attachments/assets/66fed1ed-d0c5-4cae-ac9b-3c1a03db27ec" />
