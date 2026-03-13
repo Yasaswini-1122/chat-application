@@ -1,0 +1,12 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Yarramreddy Yasaswini Nandini
+
+INTERN ID: CTIS5764
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
